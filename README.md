@@ -120,7 +120,7 @@ To explore or run any project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QhySync-Market.git
+   git clone kumplex-pc
    cd QhySync-Market
    ```
 2. Navigate to the desired project folder (e.g., cd qhysync-ai-selfhosted).
@@ -138,7 +138,7 @@ This repository and its contents are licensed under the MIT License unless other
 
 📬 Contact & Contributions
 
-While this repo primarily serves as a portfolio and archive, feedback and suggestions are always welcome. If you have questions or would like to discuss any project further, please open an issue or reach out via [your email/LinkedIn].
+While this repo primarily serves as a portfolio and archive, feedback and suggestions are always welcome. If you have questions or would like to discuss any project further, please open an issue or reach out via kumplexnews@gmail.com.
 
 ---
 
